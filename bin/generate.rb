@@ -1,0 +1,1 @@
+start = APIParser.new("http://reddit.com/.json"))
